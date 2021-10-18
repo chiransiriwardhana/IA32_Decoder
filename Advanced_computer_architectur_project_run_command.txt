@@ -1,0 +1,5 @@
+
+
+sudo g++ -o main_and_cmp main_and_cmp.cpp And.cpp Cmp.cpp 
+
+ ./main_and_cmp
